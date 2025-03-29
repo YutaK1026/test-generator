@@ -1,0 +1,6 @@
+[submodule "test-generator-frontend"]
+	path = test-generator-frontend
+	url = git@github.com:YutaK1026/test-generator-frontend.git
+[submodule "test-generator-backend"]
+	path = test-generator-backend
+	url = git@github.com:YutaK1026/test-generator-backend.git
